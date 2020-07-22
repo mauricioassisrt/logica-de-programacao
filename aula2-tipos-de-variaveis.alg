@@ -14,7 +14,8 @@ sexo:logico
 inicio
 
 leia(nome)
-escreva("Olá ", nome)
-escreva("Sua idade é  ", 25)
+leia(idade)
+escreval("Olá " , nome)
+escreval("Sua idade é  ", idade)
 
 fimalgoritmo
