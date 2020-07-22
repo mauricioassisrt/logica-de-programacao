@@ -13,8 +13,8 @@ sexo:logico
 
 inicio
 
-nome <-  "Joao"
-idade <- 18
-nota <- 86
-sexo <- falso
+leia(nome)
+escreva("Olá ", nome)
+escreva("Sua idade é  ", 25)
+
 fimalgoritmo
