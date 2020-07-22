@@ -7,11 +7,14 @@ var
 
 nome:caractere
 idade:inteiro
-altura:numerico
+nota:real
 sexo:logico
 
 
 inicio
-// Seção de Comandos 
-n+1;
+
+nome <-  "Joao"
+idade <- 18
+nota <- 86
+sexo <- falso
 fimalgoritmo
